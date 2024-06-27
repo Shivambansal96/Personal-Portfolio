@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website<br/>
-  <a href="" target="_blank">Shivam Bansal</a>
+  <a href="https://sb-personal-portfolio.vercel.app/" target="_blank">Shivam Bansal</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="" />
@@ -11,10 +11,15 @@
 <center>
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
+<br />
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
+<br />
+
 <!-- [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp; -->
-![GitHub Repo stars](https://img.shields.io/github/stars/Shivambansal96/Portfolio?color=red&logo=github&style=for-the-badge) &nbsp;
-![GitHub forks](https://img.shields.io/github/forks/Shivambansal96/Portfolio?color=red&logo=github&style=for-the-badge)
+![GitHub Repo stars](https://img.shields.io/github/stars/Shivambansal96/Personal-Portfolio?color=red&logo=github&style=for-the-badge) &nbsp;
+<br />
+
+![GitHub forks](https://img.shields.io/github/forks/Shivambansal96/Personal-Portfolio?color=red&logo=github&style=for-the-badge)
 
 </center>
 
@@ -42,6 +47,8 @@ This project was built using these technologies.
 
 **📱 Fully Responsive**
 
+
+<!-- 
 ## Getting Started
 
 Clone down this repository. You will need `node.js` and `git` installed globally on your machine.
@@ -59,7 +66,7 @@ The page will reload if you make edits.
 ## Usage Instructions
 
 Open the project folder and Navigate to `/src/components/`. <br/>
-You will find all the components used and you can edit your information accordingly.
+You will find all the components used and you can edit your information accordingly. -->
 
 ### Show your support
 
