@@ -8,25 +8,20 @@
 
 <br/>
 
-<center>
+<!-- <center>
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
 <br />
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
 <br />
-
-<!-- [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp; -->
+[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
+<br />
 ![GitHub Repo stars](https://img.shields.io/github/stars/Shivambansal96/Personal-Portfolio?color=red&logo=github&style=for-the-badge) &nbsp;
 <br />
-
 ![GitHub forks](https://img.shields.io/github/forks/Shivambansal96/Personal-Portfolio?color=red&logo=github&style=for-the-badge)
 
-</center>
+</center> -->
 
-
-<!-- ## TL;DR
-
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Shivambansal96](hosted_link). Thanks! -->
 
 ## Built With
 
