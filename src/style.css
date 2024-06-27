@@ -52,7 +52,7 @@ button:focus {
 /* --------- */
 
 ::-webkit-scrollbar {
-  width: 7px;
+  width: 8px;
 }
 
 /* Track */
@@ -157,6 +157,12 @@ button:focus {
 .logo {
   height: 1.4em !important;
   width: 2.5em !important;
+  font-weight: bold;
+}
+
+.logo :hover {
+  color:#68187a;
+
 }
 
 .navbar-nav .nav-link {
