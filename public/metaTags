@@ -1,0 +1,21 @@
+
+
+  <!-- REMOVE IF YOU WANT  -->
+  <meta name="description" content="Self Developed personal website build with React.js">
+
+  <!-- Google / Search Engine Tags -->
+  <meta itemprop="name" content="Portfolio">
+  <meta itemprop="description" content="Self Developed personal website build with React.js">
+
+  <!-- Facebook Meta Tags -->
+  <meta property="og:url" content="">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Shivam | Portfolio">
+  <meta property="og:description" content="Self Developed personal website build with React.js">
+
+  <!-- Twitter Meta Tags -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Shivam | Portfolio">
+  <meta name="twitter:description" content="Self Developed personal website build with React.js">
+
+  <!-- REMOVE IF YOU WANT  -->
