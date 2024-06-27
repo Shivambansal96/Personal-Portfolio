@@ -574,10 +574,14 @@ button:focus {
 }
 
 .tech-icons:hover {
-  transform: scale(1.05) !important;
+  transform: scale(1.15) !important;
   overflow: hidden !important;
   border: 2.2px solid rgba(197, 115, 230, 0.883) !important;
+  color: red;
+  cursor:grab;
 }
+
+
 .tech-icon-images {
   padding: 20px !important;
   line-height: 1.6 !important;
