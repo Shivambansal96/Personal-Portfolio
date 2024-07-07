@@ -25,7 +25,7 @@ function Home2() {
               <br />
               <br />I am fluent in
               <i>
-                <b className="purple"> HTML, CSS, Tailwincss and Javascript. </b>
+                <b className="purple"> Figma, HTML, CSS, Sass, Javascript, React, Git and Github. </b>
               </i>
               <br />
               <br />
@@ -49,7 +49,7 @@ function Home2() {
               </i>
               &nbsp; like
               <i>
-                <b className="purple"> React.js and Next.js</b>
+                <b className="purple">Next.js</b>
               </i>
             </p>
           </Col>
