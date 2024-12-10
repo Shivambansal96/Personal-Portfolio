@@ -6,6 +6,7 @@ import {
   SiSlack,
   SiVercel,
   SiNetlify,
+  SiRender,
   
 } from "react-icons/si";
 
@@ -13,19 +14,22 @@ function Toolstack() {
   return (
     <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
       <Col xs={4} md={2} className="tech-icons">
-        <SiNetlify />
+        <SiVisualstudiocode title="VS Code"/>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiVisualstudiocode />
+        <SiPostman title="Postman"/>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiPostman />
+        <SiSlack title="Slack"/>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiSlack />
+        <SiNetlify title="Netlify"/>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiVercel />
+        <SiRender title="Render"/>
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiVercel title="Vercel"/>
       </Col>
     </Row>
   );

@@ -9,6 +9,9 @@ import {
   DiJava,
   DiGithub,
   DiNpm,
+  DiPython,
+  DiBootstrap,
+  DiSass,
 } from "react-icons/di";
 import {
   SiFirebase,
@@ -18,6 +21,8 @@ import {
   SiTailwindcss,
   SiRedux,
   SiExpress,
+  SiEslint,
+  SiCanva,
 
 } from "react-icons/si";
 
@@ -25,49 +30,64 @@ function Techstack() {
   return (
     <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
       <Col xs={4} md={2} className="tech-icons">
-        <DiJava />
+        <DiJava title="Java"/>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiFigma />
+        <DiPython title="Python"/>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiGit />
+        <SiFigma title="Figma" />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiGithub />
+        <SiCanva title="Canva" />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiNpm />
+        <DiGit title="Git"/>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiHtml5 />
+        <DiGithub title="GitHub" />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiCss3 />
+        <SiHtml5 title="HTML"/>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiTailwindcss />
+        <SiCss3 title="CSS"/>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiJavascript1 />
+        <DiSass title="Sass"/>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiReact />
+        <SiTailwindcss title="TailwindCSS"/>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiRedux />
+        <DiBootstrap title="BootStrap"/>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiFirebase />
+        <DiJavascript1 title="JavaScript"/>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiNodejs />
+        <DiReact title="React"/>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiExpress />
+        <SiRedux title="Redux"/>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiMongodb />
+        <SiFirebase title="Firebase"/>
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiEslint title="Eslint"/>
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiNpm title="npm"/>
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiNodejs title="Node.js"/>
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiExpress title="Express.js"/>
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiMongodb title="MongoDB"/>
       </Col>
     </Row>
   );
