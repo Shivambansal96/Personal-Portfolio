@@ -11,7 +11,7 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Shivam Bansal </span>
             from <span className="purple"> Siliguri, West Bengal, India.</span>
             <br />
-            I am currently an Apprentice at Geekster.
+            {/* I am currently an Apprentice at Geekster. */}
             <br />
             I have completed B.com(Hons) from School of Open Learning (DU).
             <br />
@@ -26,7 +26,7 @@ function AboutCard() {
               <ImPointRight /> Listen to music!
             </li>
             <li className="about-activity">
-              <ImPointRight /> Travelling
+              <ImPointRight /> Travel
             </li>
           </ul>
             <br />
