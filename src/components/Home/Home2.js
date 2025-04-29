@@ -1,14 +1,14 @@
 import React from "react";
-import { Container, Row, Col } from "react-bootstrap";
+import { Col, Container, Row } from "react-bootstrap";
 // import myImg from "../../Assets/avatar.svg"; 
-import myImg from "../../Assets/3d_kid.jpg"; 
-import Tilt from "react-parallax-tilt";
 import {
-  AiFillGithub,
-  AiOutlineTwitter,
-  AiFillInstagram,
+    AiFillGithub,
+    AiFillInstagram,
+    AiOutlineTwitter,
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
+import Tilt from "react-parallax-tilt";
+import myImg from "../../Assets/3d_kid.jpg";
 
 function Home2() {
   return (
@@ -98,7 +98,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.instagram.com/aks_4_eva"
+                  href="https://www.instagram.com/shine_beyond_syntax"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
