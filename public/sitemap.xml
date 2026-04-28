@@ -15,4 +15,12 @@
     <loc>https://sb-personal-portfolio.vercel.app/project</loc>
   </url>
 
+   <url>
+    <loc>https://sb-personal-portfolio.vercel.app/resume</loc>
+  </url>
+
+   <url>
+    <loc>https://sb-personal-portfolio.vercel.app/blogs</loc>
+  </url>
+
 </urlset>
