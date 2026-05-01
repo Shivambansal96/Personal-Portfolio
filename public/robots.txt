@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://sb-personal-portfolio.vercel.app/sitemap.xml
+Sitemap: https://www.shivambansal.co.in/sitemap.xml

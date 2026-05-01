@@ -3,24 +3,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <url>
-    <loc>https://sb-personal-portfolio.vercel.app/</loc>
+    <loc>https://www.shivambansal.co.in/</loc>
     <priority>1.0</priority>
   </url>
 
   <url>
-    <loc>https://sb-personal-portfolio.vercel.app/about</loc>
+    <loc>https://www.shivambansal.co.in/about</loc>
   </url>
 
   <url>
-    <loc>https://sb-personal-portfolio.vercel.app/project</loc>
+    <loc>https://www.shivambansal.co.in/project</loc>
   </url>
 
    <url>
-    <loc>https://sb-personal-portfolio.vercel.app/resume</loc>
+    <loc>https://www.shivambansal.co.in/resume</loc>
   </url>
 
    <url>
-    <loc>https://sb-personal-portfolio.vercel.app/blogs</loc>
+    <loc>https://www.shivambansal.co.in/blogs</loc>
   </url>
 
 </urlset>
