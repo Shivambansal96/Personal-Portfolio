@@ -10,7 +10,7 @@ function Type() {
           "FrontEnd Web Developer",
           "Technical Trainer",
           "Freelancer",
-          "Open Source Contributor",
+          "Educator",
         ],
         autoStart: true,
         loop: true,

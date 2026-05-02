@@ -1,10 +1,9 @@
-import React from "react";
 import { Col, Container, Row } from "react-bootstrap";
 // import myImg from "../../Assets/avatar.svg"; 
 import {
-    AiFillGithub,
-    AiFillInstagram,
-    AiOutlineTwitter,
+  AiFillGithub,
+  AiFillInstagram,
+  AiOutlineTwitter,
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
 import Tilt from "react-parallax-tilt";
@@ -25,7 +24,7 @@ function Home2() {
               <br />
               <br />I am fluent in
               <i>
-                <b className="purple"> Figma, HTML, CSS, Sass, Javascript, React, Git and Github. </b>
+                <b className="purple"> Figma, HTML, CSS, Sass, Javascript, Python, Java, Strong DSA, SQL, Git and Github. </b>
               </i>
               <br />
               <br />
