@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.shivambansal.co.in/sitemap.xml
+Sitemap: https://shivambansal.co.in/sitemap.xml

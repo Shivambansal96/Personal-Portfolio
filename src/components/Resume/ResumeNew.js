@@ -1,16 +1,13 @@
 // import React, { useState, useEffect } from "react";
 import { Container, Row } from "react-bootstrap";
 import Button from "react-bootstrap/Button";
-import FE_pdf from "../../Assets/CVs/Shivam_Resume_FE(Latest).pdf";
-import Particle from "../Particle";
-// import TT_pdf from "../../Assets/CVs/Teaching Resume(24 Nov).pdf";
-import TT_pdf from "../../Assets/CVs/Teaching Resume(new).pdf";
-// import TT_pdf from "../../Assets/CVs/Teaching Resume(jpg).jpg";
-// import resume_pic from "../../Assets/CVs/Shivam_Resume_FE.jpg";
-import FE_resume_pic from "../../Assets/CVs/Shivam_Resume_FE(Latest).jpg";
-// import TT_resume_pic from "../../Assets/CVs/Teaching Resume (Nov 24).jpg";
 import { AiOutlineDownload } from "react-icons/ai";
-import TT_resume_pic from "../../Assets/CVs/Teaching Resume (2).jpg";
+import FE_resume_pic_1 from "../../Assets/CVs/Shivam_Resume_FE_page_1.jpg";
+import FE_resume_pic_2 from "../../Assets/CVs/Shivam_Resume_FE_page_2.jpg";
+import FE_pdf from "../../Assets/CVs/Shivam_Resume_FE.pdf";
+import TT_resume_pic from "../../Assets/CVs/Teaching Resume (Jpg).jpg";
+import TT_pdf from "../../Assets/CVs/Teaching Resume.pdf";
+import Particle from "../Particle";
 // import { Document, Page, pdfjs } from "react-pdf";
 import "react-pdf/dist/esm/Page/AnnotationLayer.css";
 // pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.min.js`;
@@ -44,7 +41,11 @@ function ResumeNew() {
         <Row className="resume">
           <h2>Front End Developer Resume</h2>
             <Container>
-              <img style={{height: '100%', width: '40%'}} src={FE_resume_pic} alt="Image_of_Resume" />
+              <img style={{height: '100%', width: '40%'}} src={FE_resume_pic_1} alt="Image_of_Resume" />
+            </Container>
+
+            <Container>
+              <img style={{height: '100%', width: '40%'}} src={FE_resume_pic_2} alt="Image_of_Resume" />
             </Container>
         </Row>
 
