@@ -12,11 +12,22 @@ function Home() {
         <Container className="home-content">
           <Row>
             <Col md={7} className="home-header">
-              <h1 style={{ paddingBottom: 15 }} className="heading">
+              <h2 style={{ paddingBottom: 15 }} className="heading">
                 Hi There!{" "}
-                <span className="wave" role="img" aria-labelledby="wave">
+                <span className="wave" role="img" aria-label="waving hand">
                   👋🏻
                 </span>
+              </h2>
+
+              <h1 className="heading-name">
+                I am
+                <strong className="main-name"> Shivam Bansal</strong>
+              </h1>
+
+
+              {/* ---------------------------------------------------------------------- */}
+              {/* <h1 style={{ paddingBottom: 15 }} className="heading">
+                Hi There! 👋🏻
               </h1>
 
               <h1 className="heading-name">
@@ -35,8 +46,10 @@ function Home() {
                   overflow: "hidden"
                 }}
               >
-                Shivam Bansal - Freelance Web Developer & Technical Trainer
-              </h1>
+                Shivam Bansal - Freelancer, Web Developer & Technical Trainer
+              </h1> */}
+
+              {/* ---------------------------------------------------------------------- */}
 
               <div style={{ padding: 50, textAlign: "left" }}>
                 <Type />
@@ -45,17 +58,9 @@ function Home() {
 
             <Col md={5} style={{ paddingBottom: 20 }}>
               <Tilt>
-                {/* <img
-                  // src={homeLogo_2}
-                  src="/images/shivam_bansal.png"
-                  alt="Shivam Bansal - Freelance Web Developer and Technical Trainer"
-                  className="img-fluid"
-                  style={{ maxHeight: "450px", borderRadius: '50px' }}
-                /> */}
-
                 <img
                   src="/images/shivam_bansal.png"
-                  alt="Shivam Bansal - Freelance Web Developer and Technical Trainer"
+                  alt="Shivam Bansal - Freelancer, Web Developer and Technical Trainer"
                   className="img-fluid"
                   loading="eager"
                   fetchpriority="high"
