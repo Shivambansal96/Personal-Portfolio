@@ -1,69 +1,67 @@
-<h2 align="center">
-  Portfolio Website<br/>
-  <a href="https://sb-personal-portfolio.vercel.app/" target="_blank">Shivam Bansal</a>
-</h2>
 <div align="center">
-  <img alt="Demo" src="" />
+
+<img src="public/images/shivam_bansal.png" alt="Shivam Bansal" width="150" />
+
+# Shivam Bansal
+
+### Coding Educator · Technical Trainer · Web Developer
+
+<p>
+  A polished, responsive portfolio for showcasing software projects,<br />
+  technical training, programming mentorship, and a love for learning in public.
+</p>
+
+<a href="https://shivambansal.co.in/">Visit the live portfolio</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/shivambansal96/">Connect on LinkedIn</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="https://github.com/Shivambansal96">View GitHub</a>
+
 </div>
 
-<br/>
-
-<!-- <center>
-
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
 <br />
-[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
-<br />
-[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
-<br />
-![GitHub Repo stars](https://img.shields.io/github/stars/Shivambansal96/Personal-Portfolio?color=red&logo=github&style=for-the-badge) &nbsp;
-<br />
-![GitHub forks](https://img.shields.io/github/forks/Shivambansal96/Personal-Portfolio?color=red&logo=github&style=for-the-badge)
 
-</center> -->
+## The Experience
+
+This portfolio is designed as a digital introduction to Shivam Bansal: part project gallery, part professional profile, and part learning journey. It brings together selected software work, technical skills, an interactive resume, GitHub activity, and links to writing and professional profiles in one focused experience.
+
+The visual direction combines a deep, atmospheric interface with luminous accents, motion, and responsive layouts. Every section is built to remain useful on both a large screen and a mobile device.
 
 
-## Built With
 
-This project was built using these technologies.
+## Run Locally
 
-- React.js
-- Node.js
-- Express.js
-- CSS3
-- VsCode
-- Vercel
+```bash
+git clone https://github.com/Shivambansal96/Personal-Portfolio.git
+cd Personal-Portfolio
+npm install
+npm start
+```
 
-## Features
+The development server opens at `http://localhost:3000`.
 
-**📖 Multi-Page Layout**
+Create a production build with:
 
-**🎨 Styled with React-Bootstrap and Css with easy to customize colors**
+```bash
+npm run build
+```
 
-**📱 Fully Responsive**
 
 
-<!-- 
-## Getting Started
+## Connect
 
-Clone down this repository. You will need `node.js` and `git` installed globally on your machine.
+For technical training, programming mentorship, web development, or collaboration:
 
-## 🛠 Installation and Setup Instructions
+- Website: [shivambansal.co.in](https://shivambansal.co.in/)
+- LinkedIn: [Shivam Bansal](https://www.linkedin.com/in/shivambansal96/)
+- GitHub: [Shivambansal96](https://github.com/Shivambansal96)
+- Medium: [@bansal.shivam1216](https://medium.com/@bansal.shivam1216)
 
-1. Installation: `npm install`
+<div align="center">
 
-2. In the project directory, you can run: `npm start`
+### Built with curiosity, craft, and a little bit of Shine.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-The page will reload if you make edits.
+⭐ Star the repository if it helped or inspired you.
 
-## Usage Instructions
-
-Open the project folder and Navigate to `/src/components/`. <br/>
-You will find all the components used and you can edit your information accordingly. -->
-
-### Show your support
-
-Give a ⭐ if you like this website!
+</div>
 
