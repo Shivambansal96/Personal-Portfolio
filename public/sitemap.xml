@@ -23,9 +23,4 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <changefreq>monthly</changefreq>
   </url>
 
-  <url>
-    <loc>https://shivambansal.co.in/blogs</loc>
-    <changefreq>weekly</changefreq>
-  </url>
-
 </urlset>
